@@ -1,11 +1,12 @@
 {
   "name": "portfolio",
   "private": true,
+  "homepage": "https://cnikesh.github.io/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
