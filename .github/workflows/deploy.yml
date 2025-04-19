@@ -24,7 +24,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-            cd frontend
+            cd portfolio
             npm install
 
       - name: Build project
