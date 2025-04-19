@@ -30,15 +30,18 @@ const About = (props: Props) => {
 
                 <h3 className='text-xl md:text-2xl lg:text-3xl font-light
                 text-center md:text-left bg-gradient-to-r from-blue-400 via-sky-400 to-blue-600
-                text-transparent bg-clip-text'>Software Developer</h3>
+                text-transparent bg-clip-text'>Software Engineer</h3>
                 <p className='text-sm text-slate-400 text-center md:text-left text-pretty'>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi ad dolorum iure dolorem delectus repudiandae aspernatur esse sint dolores modi recusandae veniam voluptatem at, nihil ut officiis facilis dolor aut!
-                </p>
+                I am an enthusiastic programmer and math lover, who loves solving problems and excels as a team player/leader.                </p>
                 <div className='flex gap-5 mt-3'>
+                    <a href="https://github.com/cnikesh" target='_blank'>
                     <BiLogoGithub className='text-2xl md:text-3xl text-white cursor-pointer 
                     hover:scale-110 hover:text-indigo-500 hover:rotate-12 transition-all duration-300 ease-in-out'></BiLogoGithub>
+                    </a>
+                    <a href="https://www.linkedin.com/in/nikeshchithambaram/" target='_blank'>
                     <BiLogoLinkedin className='text-2xl md:text-3xl text-white cursor-pointer 
                     hover:scale-110 hover:text-indigo-500 hover:rotate-12 transition-all duration-300 ease-in-out'></BiLogoLinkedin>
+                    </a>
                 </div>
 
             </motion.div>

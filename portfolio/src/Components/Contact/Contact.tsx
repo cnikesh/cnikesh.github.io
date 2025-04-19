@@ -25,7 +25,7 @@ const Contact = (props: Props) => {
             viewport={{once:true}}
             transition={{duration:0.5, delay:0.3}}
             className='text-gray-300 text-lg text-center max-w-2xl leading-relaxed'>
-                Feel free to contact me.
+                Please feel free to contact me to discuss about any opportunities to work together or have a short chat about common interests.
             </motion.p>
             <button className="relative overflow-hidden group bg-gradient-to-r from-blue-500 via-sky-500 to-blue-400 px-8 py-4
             md:text-lg rounded-full font-semibold transform transition-all duration-300 hover:scale-105 hover:shadow-lg

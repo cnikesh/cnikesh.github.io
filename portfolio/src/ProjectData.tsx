@@ -11,8 +11,8 @@ export const projectData = [
     image: project1,
     title: "Financial Portfolio Management",
     description:
-      "A comprehensive dashboard for managing online stores with real-time analytics, inventory management, and sales tracking. Built with modern web technologies for optimal performance.",
-    link: "https://github.com/yourusername/ecommerce-dashboard",
+    "A comprehensive tool for tracking and managing investment portfolios. Features real-time stock data integration, the ability to watch and add stocks to a personalized profile, and detailed insights into price movements and market trends.",
+    link: "https://github.com/cnikesh/Finshark",
     technologies: [".NET", "React", "SQL Server", "Docker", "Tailwind"],
   },
   {
@@ -20,8 +20,8 @@ export const projectData = [
     image: project2,
     title: "AI Car Recognition System",
     description:
-      "An AI-powered platform that helps create high-quality content using machine learning algorithms. Features include text generation, image creation, and content optimization.",
-    link: "https://github.com/yourusername/ai-content-generator",
+    "A deep learning-powered system for automatic car classification by model, make, and year. Utilizes Convolutional Neural Networks (CNNs) built with TensorFlow to deliver accurate image-based recognition and analytics.",
+    link: "https://github.com/cnikesh/Car-Make-Classification",
     technologies: ["Python", "CNN", "TensorFlow", "Java", "Android"],
   },
   {
@@ -29,35 +29,35 @@ export const projectData = [
     image: project3,
     title: "Social Media for Travelers",
     description:
-      "A powerful analytics tool that provides insights into social media performance across multiple platforms. Includes customizable dashboards and automated reporting.",
-    link: "https://github.com/yourusername/social-analytics",
-    technologies: ["Angular", "Firebase", "Typescript", "Express", "D3.js"],
+    "A modern web platform designed for travelers to share their journeys. Users can post travel stories, explore content from others, and engage through likes and comments, fostering a community of travel enthusiasts.",
+    link: "https://github.com/cnikesh/travelgram",
+    technologies: ["Angular", "Firebase", "Typescript", "Express", "NoSQL"],
   },
   {
     id: 4,
     image: project4,
-    title: "Virtual Yoga Trainer",
+    title: "Virtual Yoga Trainer [Build Started...]",
     description:
-      "A centralized IoT platform for managing smart home devices. Features include device automation, energy monitoring, and voice control integration.",
-    link: "https://github.com/yourusername/smart-home-hub",
-    technologies: ["React Native", "GraphQL", "AWS IoT", "WebSocket", "Redux"],
+    "An interactive Unity application that delivers real-time yoga instruction and pose correction using pose estimation powered by MediaPipe Pose and OpenCV. Features a 3D humanoid model for visual guidance and intuitive UI markers to enhance user posture and engagement during sessions.",
+    link: "https://github.com/cnikesh",
+    technologies: ["Unity", "Mediapipe", "Python", "Opencv", "Blender"],
   },
   {
     id: 5,
     image: project5,
-    title: "Runs Tracker",
+    title: "Runs Tracker [Build Started...]",
     description:
-      "A comprehensive fitness tracking application that helps users monitor workouts, nutrition, and progress. Includes AI-powered workout recommendations.",
-    link: "https://github.com/yourusername/fitness-tracker",
-    technologies: ["Flutter", "Firebase", "TensorFlow Lite", "SQLite", "BLoC"],
+    "A web application for organizing and monitoring run data. Includes a backend API for data processing, with a dynamic UI currently in development to support real-time visualization and performance tracking.",
+    link: "https://github.com/cnikesh",
+    technologies: ["Java", "Spring Boot", "PostgreSQL", "JUnit", "Docker"],
   },
   {
     id: 6,
     image: project6,
-    title: "Home Automation Dashboard",
+    title: "Home Automation Dashboard [Build Started...]",
     description:
-      "A collaborative project management tool with features like task tracking, team communication, and progress monitoring. Optimized for both small teams and large organizations.",
-    link: "https://github.com/yourusername/task-management",
-    technologies: ["Angular", "NestJS", "PostgreSQL", "RxJS", "Socket.io"],
+    "A centralized IoT platform for managing smart home devices. Features include device automation, energy monitoring, and voice control integration.Currently being evaluated for feasibility due to compatibility challenges. May evolve into a plant health tracking system to automate watering and care routines for indoor gardening.",
+    link: "https://github.com/cnikesh",
+    technologies: ["Angular", "Node.Js", "Express.Js", "MongoDb", "Docker"],
   },
 ];
