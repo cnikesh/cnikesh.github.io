@@ -36,10 +36,10 @@ export const projectData = [
   {
     id: 4,
     image: project4,
-    title: "Virtual Yoga Trainer [Build Started...]",
+    title: "Virtual Yoga Trainer",
     description:
     "An interactive Unity application that delivers real-time yoga instruction and pose correction using pose estimation powered by MediaPipe Pose and OpenCV. Features a 3D humanoid model for visual guidance and intuitive UI markers to enhance user posture and engagement during sessions.",
-    link: "https://github.com/cnikesh",
+    link: "https://github.com/cnikesh/VR_Yoga_Trainer",
     technologies: ["Unity", "Mediapipe", "Python", "Opencv", "Blender"],
   },
   {
